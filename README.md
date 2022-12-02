@@ -1,7 +1,12 @@
 # Data-Visualizations-with-IBM-Cognos-and-Excel
 
-Role played as a regional manager for a chain of car dealerships and created visualizations
-and dashboard in Excel and IBM Cognos Analytics with Watson to highlight trends between car sales and profits for each car dealer.
+Project Scenario: 
+
+I roleplay as a regional manager for a chain of car dealerships and create visualizations from a sample dataset using Excel and
+a dashboard using IBM Cognos Analytics with Watson to highlight trends between car sales and profits for
+each car dealer.
+
+The Excel file contains the sample dataset and pivot tables in separate sheets. 
 
 IBM Cognos Analytics Dashboard can be accessed from my IBM Cloud server using this link:
 
