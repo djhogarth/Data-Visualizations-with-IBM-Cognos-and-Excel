@@ -2,8 +2,8 @@
 
 Project Scenario: 
 
-I roleplay as a regional manager for a chain of car dealerships and create visualizations from a sample dataset using Excel and
-a dashboard using IBM Cognos Analytics with Watson to allow me to understand the car sales and profits for each dealer as well
+I roleplay as a regional manager for a chain of car dealerships and create visualizations from a sample dataset using Microsoft Excel and
+create a dashboard using IBM Cognos Analytics to allow me to understand the car sales and profits for each dealer as well
 as the performance of the sales and service departments.
 
 The .XLSX file in this repository contains the sample data and the pivot tables in separate sheets. 
